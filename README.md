@@ -20,5 +20,5 @@ Arthur Ricardo e Everton Lohan
 
 ### Observações
 
-2. Este projeto foi desenvolvido para a disciplina de Arquitetura de Computadores, período 2023.2, pelo professor Ramon Nepomuceno na UFCA (UNIVERSIDADE FEDERAL DO CARIRI).
+- Este projeto foi desenvolvido para a disciplina de Arquitetura de Computadores, período 2023.2, pelo professor Ramon Nepomuceno na UFCA ( UNIVERSIDADE FEDERAL DO CARIRI ).
 
